@@ -48,14 +48,14 @@ git clone https://github.com/your-username/simple-login-form.git
 
 ## 🧩 Customization Tips
 
-Element |	How to Customize
----------|-------------------
-🔁 Background |	Replace 2.jpg with your own image. Adjust in style.css
-🎨 Colors |	Change primary and hover colors in the CSS file
-🧪 Inputs |	Add more fields like email, phone, or CAPTCHA
-🧠 Validation |	Use HTML5 attributes or JavaScript for client-side validation
-💬 Fonts	| Integrate Google Fonts for typography
-🔐 Backend |	Connect form to a PHP, Node.js, or Django backend for real login logic
+| Element |	How to Customize |
+| ---------|-------------------
+| 🔁 Background |	Replace 2.jpg with your own image. Adjust in style.css
+| 🎨 Colors |	Change primary and hover colors in the CSS file
+| 🧪 Inputs |	Add more fields like email, phone, or CAPTCHA
+| 🧠 Validation |	Use HTML5 attributes or JavaScript for client-side validation
+| 💬 Fonts	| Integrate Google Fonts for typography
+| 🔐 Backend |	Connect form to a PHP, Node.js, or Django backend for real login logic
 
 ---
 
